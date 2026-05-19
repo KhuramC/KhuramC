@@ -10,9 +10,9 @@ Here are the technologies I work with most frequently:
 
 * **Low-level:** C/C++, CUDA.
 * **Frontend**: JavaScript/TypeScript, React, Svelte.
-* **Backend**: C#/.NET, MSSQL/PostGres, MongoDB
+* **Backend**: C#/.NET, MSSQL/Postgres, MongoDB
 * **Data Analysis**: Python, Pandas/Numpy, Pytorch, R.
-* **DevOps**: Docker, AWS/GCP, GitHub Actions/Azure Pipelines, Jenkins 
+* **DevOps**: Docker, AWS/GCP, GitHub Actions/Azure Pipelines, Jenkins
 
 ---
 
@@ -27,7 +27,6 @@ Here are the technologies I work with most frequently:
 
 ## 📊 GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhuramC&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhuramC&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Metrics](github-metrics.svg)
 
 ---
