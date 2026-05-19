@@ -25,8 +25,8 @@ Here are the technologies I work with most frequently:
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 ![GitHub Metrics](github-metrics.svg)
 
----
+--- -->
